@@ -1,0 +1,8 @@
+cdC:\Users\Airola3\Downloads
+
+git init
+git remote add origin https://github.com/Adriatic0/reservas_comunidad_app1.git
+
+git add codemagic.yaml
+git commit -m "Add first workflow"
+git push -u origin main
